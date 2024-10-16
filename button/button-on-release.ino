@@ -23,5 +23,5 @@ void loop() {
       }
     }
   }
-  delay(100); // avoid the bounce issue
+  delay(100);
 }
